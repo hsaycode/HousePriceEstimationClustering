@@ -14,7 +14,7 @@ My approach to the predict the house trend is:
 10. Ran predicitions of the provided test data frame
 11. Using Clustering i clustered the training data into 3 clusters and visualized the clusters using multiple plots like scatter plot and 3D plot
 12. Then using gradio i deployed the user interface
-
+But I was unable to run this interface on becuase of the norton antivirus blocking the gradio sharing feature.
 
 Insight and Observation:
 1.The first scatter plot highlights the centroids of the 3 clusters and marks the three clusters in different colours
